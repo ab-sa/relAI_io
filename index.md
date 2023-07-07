@@ -2,7 +2,7 @@
 title: 
 feature_text: |
   ## <span style="color:#ADD8E6"> relAI </span>
-  <span style="color:#ADD8E6">
+  <span style="color:white">
   Our mission is empowering industries with AI-driven maintenance for optimal efficiency and performance
   </span>
   
