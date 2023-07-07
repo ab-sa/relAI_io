@@ -4,7 +4,7 @@ feature_text: |
   ## relAI
   Our mission is empowering industries with AI-driven maintenance for optimal efficiency and performance
 feature_image: "ai-bridges.jpeg"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+excerpt:
 ---
 
 Welcome to relAI, a leading private professional company dedicated to revolutionizing maintenance strategies using the power of artificial intelligence. At relAI, we specialize in leveraging cutting-edge AI technologies to identify and implement optimal maintenance approaches for a wide range of systems. Our team of expert data scientists and engineers work tirelessly to analyze vast amounts of data, uncover patterns, and generate actionable insights. By harnessing the potential of AI, we empower organizations to make data-driven decisions that enhance system performance, reduce downtime, and maximize operational efficiency. With a focus on innovation and excellence, relAI is your trusted partner in unlocking the full potential of AI-driven maintenance strategies.
