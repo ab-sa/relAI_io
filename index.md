@@ -3,7 +3,7 @@ title:
 feature_text: |
   ## relAI
   Our mission is empowering industries with AI-driven maintenance for optimal efficiency and performance
-feature_image: "the-process.png"
+feature_image: "ai-bridges.jpeg"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 
