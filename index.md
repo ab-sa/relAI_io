@@ -1,13 +1,13 @@
 ---
-title: About Alembic
+title: About relAI
 feature_text: |
   ## relAI
-  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
+  Our mission is Empowering industries with AI-driven maintenance for optimal efficiency and performance
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 
-Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
+Welcome to relAI, a leading private professional company dedicated to revolutionizing maintenance strategies using the power of artificial intelligence. At relAI, we specialize in leveraging cutting-edge AI technologies to identify and implement optimal maintenance approaches for a wide range of systems. Our team of expert data scientists and engineers work tirelessly to analyze vast amounts of data, uncover patterns, and generate actionable insights. By harnessing the potential of AI, we empower organizations to make data-driven decisions that enhance system performance, reduce downtime, and maximize operational efficiency. With a focus on innovation and excellence, relAI is your trusted partner in unlocking the full potential of AI-driven maintenance strategies.
 
 {% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
 
