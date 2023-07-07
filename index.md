@@ -1,5 +1,5 @@
 ---
-title: About relAI
+title: 
 feature_text: |
   ## relAI
   Our mission is empowering industries with AI-driven maintenance for optimal efficiency and performance
