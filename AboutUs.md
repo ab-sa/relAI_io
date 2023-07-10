@@ -1,7 +1,6 @@
 ---
 title: About us
-feature_text: |
-  
+feature_text:
 feature_image: "MeetOurTeam.png"
 excerpt: "A demo of Markdown and HTML includes"
 aside: true
