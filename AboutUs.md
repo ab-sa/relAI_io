@@ -1,7 +1,6 @@
 ---
 title: About us
-feature_text: |
-temp
+feature_text: temp
 feature_image: "MeetOurTeam2.jpeg"
 excerpt: 
 aside: true
