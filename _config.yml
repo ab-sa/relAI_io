@@ -126,13 +126,13 @@ navigation_header:
 - title: Team
   url: /relAI_io/elements/
 - title: Blog
-  url: /blog/
+  url: /relAI_io/blog/
 - title: Categories
-  url: /categories/
+  url: /relAI_io/categories/
 - title: Search
-  url: /search/
+  url: /relAI_io/search/
 - title: Fork Alembic
-  url: https://github.com/daviddarnes/alembic
+  url: https://github.com/ab-sa/relAI_io
 
 navigation_footer:
 - title: Created by David Darnes
