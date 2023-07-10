@@ -1,8 +1,9 @@
 ---
 title: About us
-feature_text:
+feature_text: | "temp"
 feature_image: "MeetOurTeam2.jpeg"
 excerpt: 
+aside: true
 ---
 
 # Heading 1
