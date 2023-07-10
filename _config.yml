@@ -123,8 +123,8 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Home
   url: relAI_io/
-- title: Team
-  url: /relAI_io/elements/
+- title: About Us
+  url: /relAI_io/AboutUs/
 - title: Blog
   url: /relAI_io/blog/
 - title: Categories
