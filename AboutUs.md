@@ -2,8 +2,7 @@
 title: About us
 feature_text:
 feature_image: "MeetOurTeam2.jpeg"
-excerpt: "A demo of Markdown and HTML includes"
-aside: true
+excerpt: 
 ---
 
 # Heading 1
