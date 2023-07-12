@@ -23,7 +23,6 @@ Welcome to relAI, a leading private professional company dedicated to revolution
 - Data-driven Decision Making: Make informed decisions based on comprehensive data analysis, ensuring optimal resource allocation and improved maintenance outcomes.
 
 
-</div>
 <div class='shadow-div'></div>
 <div class='section theme-grey'>
   <h2 class='section-heading-pre-body'>Our Partners</h2>
@@ -33,7 +32,7 @@ Welcome to relAI, a leading private professional company dedicated to revolution
         <div class='row'>
                       <div class='col-xs-12 col-lg-6'>
               <p>
-                RESP is hosted within Collaboration for Outcomes Research and Evaluation within UBC Faculty of Pharmaceutical Sciences. Our partners include UBC Division of Respiratory Medicine, and Centre for Clinical Epidemiology and Evaluation.
+                relAI is hosted within Collaboration for Reliability and AI research within Faculty of Applied Sciences at University of Tehran. Our partners include University of Tehran, Al-Zahra University, and University of Hamedan.
               </p>
             </div>
                                   <div class='col-xs-12 col-lg-6'>
