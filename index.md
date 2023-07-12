@@ -47,13 +47,13 @@ Welcome to relAI, a leading private professional company dedicated to revolution
             <div class='row'>
               
                 <div class='col-xs-6 col-sm-3 centering min-h-145'>
-                  <img class='shrinkable' src="//images.ctfassets.net/4zjw52mh76im/9isXyT9e80IGMUY0YeoiI/4a75403629a75c5442cbb4cca28560d5/group-2.jpg" />
+                  <img class='shrinkable' src="uot_logo.png" />
                 </div>
 
                 
               
                 <div class='col-xs-6 col-sm-3 centering min-h-145'>
-                  <img class='shrinkable' src="//images.ctfassets.net/4zjw52mh76im/7vknN6fz5wYjqyrgqcbHwL/aebc97973bb7e617d73b5378d77d9687/cfi-master-logo.png" />
+                  <img class='shrinkable' src="Al-ZU logo.jpeg" />
                 </div>
 
                                   <div class='col-xs-12 hidden-md hidden-lg hidden-sm v-spacer-24'>
@@ -61,29 +61,9 @@ Welcome to relAI, a leading private professional company dedicated to revolution
                 
               
                 <div class='col-xs-6 col-sm-3 centering min-h-145'>
-                  <img class='shrinkable' src="//images.ctfassets.net/4zjw52mh76im/S7beWNj0SQAqyGggmEmyY/ff8d6cc43358464760bf707f91fcb8bc/group-8_3x.png" />
+                  <img class='shrinkable' src="KU logo.webp" />
                 </div>
-
                 
-              
-                <div class='col-xs-6 col-sm-3 centering min-h-145'>
-                  <img class='shrinkable' src="//images.ctfassets.net/4zjw52mh76im/6LBRzmNThK6QQsMqwMGUoo/9e11fc327ab3a8030a0b07c4ad8e463b/group-2_3x.png" />
-                </div>
-
-                                  <div class='col-xs-12 hidden-md hidden-lg hidden-sm v-spacer-24'>
-                  </div>
-                
-              
-                <div class='col-xs-6 col-sm-3 centering min-h-145'>
-                  <img class='shrinkable' src="//images.ctfassets.net/4zjw52mh76im/5pHO7ALlE4KGkyme2QaMw8/eaf8aca047af6b3095bb20d9b16aa802/group-9_3x.png" />
-                </div>
-
-                
-              
-                <div class='col-xs-6 col-sm-3 centering min-h-145'>
-                  <img class='shrinkable' src="//images.ctfassets.net/4zjw52mh76im/Y7cjFt9x6uwkGawYO8Qwo/583f88740980027bf8510128c1cabc82/group-4_3x.png" />
-                </div>
-
                                   <div class='col-xs-12 hidden-md hidden-lg hidden-sm v-spacer-24'>
                   </div>
                 
