@@ -23,4 +23,83 @@ Welcome to relAI, a leading private professional company dedicated to revolution
 - Data-driven Decision Making: Make informed decisions based on comprehensive data analysis, ensuring optimal resource allocation and improved maintenance outcomes.
 
 
-## Examples
+</div>
+<div class='shadow-div'></div>
+<div class='section theme-grey'>
+  <h2 class='section-heading-pre-body'>Our Partners</h2>
+  <div class='container'>
+    <div class='row row-centered'>
+      <div class='col-lg-10 col-md-12 col-centered'>
+        <div class='row'>
+                      <div class='col-xs-12 col-lg-6'>
+              <p>
+                RESP is hosted within Collaboration for Outcomes Research and Evaluation within UBC Faculty of Pharmaceutical Sciences. Our partners include UBC Division of Respiratory Medicine, and Centre for Clinical Epidemiology and Evaluation.
+              </p>
+            </div>
+                                  <div class='col-xs-12 col-lg-6'>
+              <p>
+                
+              </p>
+            </div>
+                          <div class='col-xs-12 v-spacer-24'>
+              </div>
+                                  <div class='col-xs-12 col-lg-6'>
+              <p>
+                Our research has been funded by peer-reviewed grants from multiple institutions, including:
+              </p>
+            </div>
+                      
+          <div class='col-xs-12'>
+            <div class='row'>
+              
+                <div class='col-xs-6 col-sm-3 centering min-h-145'>
+                  <img class='shrinkable' src="//images.ctfassets.net/4zjw52mh76im/9isXyT9e80IGMUY0YeoiI/4a75403629a75c5442cbb4cca28560d5/group-2.jpg" />
+                </div>
+
+                
+              
+                <div class='col-xs-6 col-sm-3 centering min-h-145'>
+                  <img class='shrinkable' src="//images.ctfassets.net/4zjw52mh76im/7vknN6fz5wYjqyrgqcbHwL/aebc97973bb7e617d73b5378d77d9687/cfi-master-logo.png" />
+                </div>
+
+                                  <div class='col-xs-12 hidden-md hidden-lg hidden-sm v-spacer-24'>
+                  </div>
+                
+              
+                <div class='col-xs-6 col-sm-3 centering min-h-145'>
+                  <img class='shrinkable' src="//images.ctfassets.net/4zjw52mh76im/S7beWNj0SQAqyGggmEmyY/ff8d6cc43358464760bf707f91fcb8bc/group-8_3x.png" />
+                </div>
+
+                
+              
+                <div class='col-xs-6 col-sm-3 centering min-h-145'>
+                  <img class='shrinkable' src="//images.ctfassets.net/4zjw52mh76im/6LBRzmNThK6QQsMqwMGUoo/9e11fc327ab3a8030a0b07c4ad8e463b/group-2_3x.png" />
+                </div>
+
+                                  <div class='col-xs-12 hidden-md hidden-lg hidden-sm v-spacer-24'>
+                  </div>
+                
+              
+                <div class='col-xs-6 col-sm-3 centering min-h-145'>
+                  <img class='shrinkable' src="//images.ctfassets.net/4zjw52mh76im/5pHO7ALlE4KGkyme2QaMw8/eaf8aca047af6b3095bb20d9b16aa802/group-9_3x.png" />
+                </div>
+
+                
+              
+                <div class='col-xs-6 col-sm-3 centering min-h-145'>
+                  <img class='shrinkable' src="//images.ctfassets.net/4zjw52mh76im/Y7cjFt9x6uwkGawYO8Qwo/583f88740980027bf8510128c1cabc82/group-4_3x.png" />
+                </div>
+
+                                  <div class='col-xs-12 hidden-md hidden-lg hidden-sm v-spacer-24'>
+                  </div>
+                
+                          </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+</div>
