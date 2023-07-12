@@ -42,11 +42,6 @@ Welcome to relAI, a leading private professional company dedicated to revolution
             </div>
                           <div class='col-xs-12 v-spacer-24'>
               </div>
-                                  <div class='col-xs-12 col-lg-6'>
-              <p>
-                Our research has been funded by peer-reviewed grants from multiple institutions, including:
-              </p>
-            </div>
                       
           <div class='col-xs-12'>
             <div class='row'>
