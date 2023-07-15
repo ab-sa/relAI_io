@@ -28,6 +28,6 @@ relAI is hosted within Collaboration for Reliability and AI research within Facu
 
 ![ScreenShot][https://raw.githubusercontent.com/ab-sa/relAI_io/blob/main/Logo.png]
 
-![Image 1](./Logo.png)
+![Image 1](Logo.png)
 
-{% include figure.html image="logo.png" caption="Image with caption" width="300" height="800" %}
+{% include figure.html image="./logo.png" caption="Image with caption" width="300" height="800" %}
