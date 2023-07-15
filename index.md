@@ -26,5 +26,5 @@ Welcome to relAI, a leading private professional company dedicated to revolution
 
 relAI is hosted within Collaboration for Reliability and AI research within Faculty of Applied Sciences at University of Tehran. Our partners include University of Tehran, Al-Zahra University, and Kermanshah University of Technology.
 
-![ScreenShot][/logo.png]
+![ScreenShot][logo.png]
 {% include figure.html image="logo.png" caption="Image with caption" width="300" height="800" %}
