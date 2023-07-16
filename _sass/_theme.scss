@@ -8,6 +8,20 @@ body {
   overflow-x: hidden;
 }
 
+
+.column {
+  float: left;
+  width: 50%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
 .container {
   width: 90%;
   max-width: 1200px;
