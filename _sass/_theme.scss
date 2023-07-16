@@ -9,16 +9,13 @@ body {
 }
 
 
-.column {
+.columnl {
   float: left;
+  width: 30%;
 }
-
-.left {
-  width: 25%;
-}
-
-.right {
-  width: 75%;
+.columnr {
+  float: left;
+  width: 70%;
 }
 
 /* Clear floats after the columns */
